@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GigaCodeAgentSettings">
+    <option name="autoApprovedCommands">
+      <list>
+        <Execute>
+          <option name="pattern" value="Invoke-WebRequest -Uri &quot;http://localhost:8081/api/v1/credit-applications&quot; -Method POST -ContentType &quot;application/json&quot; -Body '{&quot;amount&quot;:100000.00,&quot;term&quot;:12,&quot;income&quot;:50000.00,&quot;currentDebt&quot;:10000.00,&quot;creditRating&quot;:750}' -TimeoutSec 5" />
+        </Execute>
+        <Execute>
+          <option name="pattern" value="cd C:/Users/vsk/IdeaProjects/BrokerMessage; mvn clean install -DskipTests" />
+        </Execute>
+      </list>
+    </option>
+  </component>
+</project>

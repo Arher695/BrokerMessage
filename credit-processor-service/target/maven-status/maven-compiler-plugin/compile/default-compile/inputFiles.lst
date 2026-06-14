@@ -1,0 +1,6 @@
+C:\Users\Guzee\IdeaProjects\BrokerMessage\credit-processor-service\src\main\java\com\example\creditprocessorservice\config\KafkaConfig.java
+C:\Users\Guzee\IdeaProjects\BrokerMessage\credit-processor-service\src\main\java\com\example\creditprocessorservice\config\RabbitMQConfig.java
+C:\Users\Guzee\IdeaProjects\BrokerMessage\credit-processor-service\src\main\java\com\example\creditprocessorservice\consumer\KafkaConsumer.java
+C:\Users\Guzee\IdeaProjects\BrokerMessage\credit-processor-service\src\main\java\com\example\creditprocessorservice\CreditProcessorServiceApplication.java
+C:\Users\Guzee\IdeaProjects\BrokerMessage\credit-processor-service\src\main\java\com\example\creditprocessorservice\dto\CreditDecisionResponse.java
+C:\Users\Guzee\IdeaProjects\BrokerMessage\credit-processor-service\src\main\java\com\example\creditprocessorservice\producer\RabbitMQProducer.java
